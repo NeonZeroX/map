@@ -37,7 +37,7 @@
         <div class="container mt-5 d-flex justify-content-center">
             <div class="card" id="cardWeather" style="width: 100rem;">
             <div id="dataWeather" style="display: none;"><img src="https://chillchilljapan.com/wp-content/uploads/2020/10/pixta_49967376_M.jpg" 
-                class="card-img-top"><div class="card-body"><h5 class="card-title my-3 ">สถานที่ : Manang</h5><p class="card-text">อาทิตย์ขึ้นเวลา : 23:24:48</p><p class="card-text">อาทิตย์ตกเวลา : 11:07:21</p><p class="card-text">ความเร็วลม : 2.39</p><p class="card-text">อุณหภูมิ : 25.09</p><p class="card-text">ความชื้นในอากาศ : 86</p></div></div></div>
+                class="card-img-top"><div class="card-body"><h5 class="card-title my-3 ">สถานที่ : </h5><p class="card-text">อาทิตย์ขึ้นเวลา : </p><p class="card-text">อาทิตย์ตกเวลา : </p><p class="card-text">ความเร็วลม : </p><p class="card-text">อุณหภูมิ : </p><p class="card-text">ความชื้นในอากาศ : </p></div></div></div>
 
                 </div>
             </div>
